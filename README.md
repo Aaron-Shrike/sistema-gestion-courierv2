@@ -1,5 +1,5 @@
 # Sistema de Gestion de una Courier - Java
-Sistema de gestión de una Courier en lenguaje Java. Es el mismo sistema presentado en este [repositorio](https://github.com/Aaron-Shrike/sistema-gestion-courier) pero ahora en lenguaje Java.
+Sistema de gestión de una Courier en lenguaje Java. Es el mismo sistema presentado en este [repositorio](https://github.com/Aaron-Shrike/sistema-gestion-courier) pero ahora en lenguaje Java. Proyecto del **cuarto semestre** de estudios de Ingeniería Informática, presentado el **11/09/19**.
 
 ## Descripción
 
